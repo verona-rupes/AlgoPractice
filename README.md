@@ -1,2 +1,1 @@
-# AlgoPractice
-My Puzzles and Algo Practice
+Algorithm practice questions collected from the web.
